@@ -5,7 +5,6 @@ export default function page() {
   return (
     <>
       <Navbar />
-      <div className="h-screen"></div>
     </>
   );
 }
